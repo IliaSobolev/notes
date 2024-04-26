@@ -1,0 +1,6 @@
+[book]
+authors = ["Ilia Sobolev"]
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/IliaSobolev"
