@@ -1,8 +1,6 @@
 # PostgreSQL
 
 ```yaml
-version: "3.3"
-
 services:
   postgres:
     image: postgres:16.2

@@ -1,8 +1,6 @@
 # Redis
 
 ```yaml
-version: "3.3"
-
 services:
   redis:
     image: redis:7.2.4
